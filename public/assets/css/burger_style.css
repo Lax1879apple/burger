@@ -1,9 +1,12 @@
 body {
     background-color: #f4c242;
+    border-style: double red;
   }
   
   img {
     width: 15%;
+    height: 260px;
+    width: 360px;
   }
   
   .red_font {

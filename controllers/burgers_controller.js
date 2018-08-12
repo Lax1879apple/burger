@@ -32,7 +32,6 @@ router.post('/burger/eat/:id', function (req, res) {
     res.redirect('/index');
   });
 });
-// ----------------------------------------------------
 
 
 // Export routes
